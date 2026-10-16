@@ -6,6 +6,8 @@ I'm **Bryan Obabori**, a systems and infrastructure engineer focused on building
 
 My work and projects span NVIDIA GPU infrastructure, enterprise compute systems, infrastructure as code, container platforms, GitOps, cloud networking, automation, observability, and secure platform engineering, with an emphasis on scalability, reliability, and operational efficiency.
 
+Note: The projects showcased here primarily focus on cloud and platform engineering. My professional work involving Dell and NVIDIA AI infrastructure is proprietary and therefore not publicly available on GitHub.
+
 ## Featured Projects
 
 ### [Secure AI Infrastructure on AWS](https://github.com/bryan-obabori/secure-ai-infra-on-aws)
