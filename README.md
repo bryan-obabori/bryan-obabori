@@ -1,10 +1,10 @@
 # Bryan Obabori
 
-**Cloud & DevOps Engineer | Infrastructure Automation | Platform Engineering**
+**Infrastructure Engineer | Automation | Platform Engineering**
 
-I'm **Bryan Obabori**, a cloud and DevOps engineer focused on building reliable, automated infrastructure and delivery platforms across AWS, Azure, Kubernetes, Terraform, Docker, and CI/CD ecosystems.
+I'm **Bryan Obabori**, a systems and infrastructure engineer focused on building, deploying, and maintaining reliable, automated infrastructure across GPU-accelerated AI platforms, high-performance computing (HPC), AWS, Azure, Kubernetes, Terraform, Docker, and CI/CD ecosystems.
 
-My work and projects center on infrastructure as code, container platforms, GitOps, cloud networking, automation, observability, and secure platform engineering.
+My work and projects span NVIDIA GPU infrastructure, enterprise compute systems, infrastructure as code, container platforms, GitOps, cloud networking, automation, observability, and secure platform engineering, with an emphasis on scalability, reliability, and operational efficiency.
 
 ## Featured Projects
 
